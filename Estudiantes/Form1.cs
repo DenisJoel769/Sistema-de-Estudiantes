@@ -42,7 +42,7 @@ namespace Estudiantes
 
         private void pictureBoxImage_Click(object sender, EventArgs e)
         {
-            estudiante.CargarImagen(pictureBoxImage);
+            estudiante.addImg.CargarImagen(pictureBoxImage);
         }
 
         private void txtC_I_TextChanged(object sender, EventArgs e)

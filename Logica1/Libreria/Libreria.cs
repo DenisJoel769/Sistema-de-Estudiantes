@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Logica1.Libreria
 {
-    class Libreria
+    public class Libreria 
     {
+        public addImagen1 addImg = new addImagen1();
+        public TextBoxEvent textBox = new TextBoxEvent();
+        
+
     }
 }

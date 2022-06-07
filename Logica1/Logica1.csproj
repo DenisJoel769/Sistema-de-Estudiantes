@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="LEstudiantes.cs" />
     <Compile Include="Libreria\addImagen1.cs" />
+    <Compile Include="Libreria\Libreria.cs" />
     <Compile Include="Libreria\TextBoxEvent.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
